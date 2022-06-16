@@ -1,0 +1,10 @@
+h1 {
+    color: lightgray;
+    text-decoration:underline;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+img{
+    width:80%;
+}
